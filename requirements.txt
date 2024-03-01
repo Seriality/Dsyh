@@ -1,0 +1,7 @@
+discord
+bs4
+requests
+dotenv
+flask
+user_agent
+thread6
