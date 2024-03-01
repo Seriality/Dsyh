@@ -32,7 +32,7 @@ def keep_alive():
   t = Thread(target=run)
   t.start()
 
-bot_key = os.environ['bot']
+bot_key = os.environ['MTE4NTU5MDM3NzA0MjkzNTg5MA.G5dg6w.4x6GA3Gx7sp1qycJJfStO9TuRPvIhbc69-cKgo']
 TOKEN = bot_key
 
 proxy = requests.get("https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt").text
